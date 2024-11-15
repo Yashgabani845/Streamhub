@@ -1,4 +1,4 @@
-# Netflix Clone Project
+# Stream Hub Project
 
 Welcome to the Netflix Clone project! This project aims to replicate the basic functionality and design of Netflix using the MERN stack (MongoDB, Express.js, React.js, Node.js), Stripe for payment processing, and Firebase Cloud for Storing Data.
 
